@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "738852690674",
+    "project_id": "lengua-ad160",
+    "storage_bucket": "lengua-ad160.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:738852690674:android:20dd9a9e824fcede57ce6b",
+        "android_client_info": {
+          "package_name": "com.lengua.flutter_application_lengua"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDlvSGQZrGsxsm2tsMfRPLBOC0I7GNs8dc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
